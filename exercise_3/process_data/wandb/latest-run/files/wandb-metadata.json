@@ -1,0 +1,51 @@
+{
+    "os": "macOS-10.14.6-x86_64-i386-64bit",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-01-11T09:02:44.857644",
+    "startedAt": "2023-01-11T09:02:44.250392",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "iris.csv:latest",
+        "--artifact_name",
+        "clean_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Cleaned data"
+    ],
+    "state": "running",
+    "program": "/Users/mamoutoufofana/Desktop/repositories/mlops/exercise_3/starter/process_data/run.py",
+    "codePath": "mlops/exercise_3/starter/process_data/run.py",
+    "git": {
+        "remote": "https://github.com/Mamoutou7/tensorflow.git",
+        "commit": "f6aa0818b8267459f57b996f031ca0eee531ee50"
+    },
+    "email": "mamoutou1992fofana@gmail.com",
+    "root": "/Users/mamoutoufofana/Desktop/repositories",
+    "host": "MacFofana.local",
+    "username": "mamoutoufofana",
+    "executable": "/Users/mamoutoufofana/.conda/envs/mlflow-149199f9cb26c765f3e2ad1f764f7d07c90a047b/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2700,
+        "min": 2700,
+        "max": 2700
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2700,
+            "min": 2700,
+            "max": 2700
+        }
+    ],
+    "disk": {
+        "total": 112.80464935302734,
+        "used": 103.90421676635742
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
