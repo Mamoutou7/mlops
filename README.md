@@ -19,11 +19,9 @@ udacity_mlops
     |_ exercise_4
     |   |_ exercise_4-files
     |   |- README.txt
-    |_ exercise_5
-    |   |_ exercise_5-files
-    |   |- README.txt
-    |_ exercise_6
-    |   |_ exercise_6-files
-    |   |- README.txt
+    |
+    |- ...
+    |   |_ ...
+    |   |- ...
     |_ README.md
 ```
