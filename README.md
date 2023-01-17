@@ -1,4 +1,4 @@
-# Correction of exercises in lesson `Data Exploration and Preparation` of Udacity Nano degree program Machine Learning DevOps Engineer. 
+# All correction of exercises of Udacity Nano degree program Machine Learning DevOps Engineer. 
 
 This directory should contain any files and instructions necessary for exercises created 
 ## Folder Structure
@@ -19,11 +19,9 @@ udacity_mlops
     |_ exercise_4
     |   |_ exercise_4-files
     |   |- README.txt
-    |_ exercise_5
-    |   |_ exercise_5-files
-    |   |- README.txt
-    |_ exercise_6
-    |   |_ exercise_6-files
-    |   |- README.txt
+    |
+    |- ...
+    |   |_ ...
+    |   |- ...
     |_ README.md
 ```
